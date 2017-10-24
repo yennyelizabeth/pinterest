@@ -1,0 +1,27 @@
+header {
+  positiion : relative;
+}
+.menu-principal {
+position :relative;
+background: red;
+
+}
+
+.item-menu-principal {
+  position : relative;
+  background: yellow;
+  border: 3px solid red ;
+ float: left;
+ width: 60px;
+}
+.caja-input {
+position :absolute;
+  background: green;
+float: left;
+}
+
+.caja-3elementos {
+position: relative;
+background: blue;
+
+}
